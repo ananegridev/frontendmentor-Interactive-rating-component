@@ -6,7 +6,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
-![]()
+![](https://github.com/ananegridev/frontendmentor-interactive-rating-component/blob/main/images/desktop-design.jpg)
 
 ### Links
 
